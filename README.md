@@ -1,2 +1,0 @@
-# AtchiyaRepository1
-RepositoryDesc
